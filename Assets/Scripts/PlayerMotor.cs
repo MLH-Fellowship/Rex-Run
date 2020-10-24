@@ -17,7 +17,7 @@ public class PlayerMotor : MonoBehaviour
 		// float verticalMovement = Input.GetAxis("Vertical") * Time.deltaTime * speed;
 
 		// transform.Translate(horizontalMovement, 0, verticalMovement);
-        controller.Move((Vector3.right * speed) * Time.deltaTime);
+        controller.Move((Vector3.forward * speed) * Time.deltaTime);
 	}
 
 }
