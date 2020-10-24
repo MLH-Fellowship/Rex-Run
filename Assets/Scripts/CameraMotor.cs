@@ -10,6 +10,7 @@ public class CameraMotor : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Make camera follow player
         lookAt = GameObject.FindGameObjectWithTag("Player").transform;
         startOffset = transform.position - lookAt.position;
     }
