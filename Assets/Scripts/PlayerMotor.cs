@@ -5,7 +5,8 @@ using UnityEngine;
 public class PlayerMotor : MonoBehaviour
 {
     private CharacterController controller;
-    private float speed = 5.0f;
+    private float speed = 4.0f;
+    private Vector3 moveVector;
 
     void Start () {
         controller = GetComponent<CharacterController> ();
@@ -13,11 +14,15 @@ public class PlayerMotor : MonoBehaviour
 	
 	// Update is called once per frame
 	void Update () {
-		// float horizontalMovement = Input.GetAxis("Horizontal") * Time.deltaTime * speed;
-		// float verticalMovement = Input.GetAxis("Vertical") * Time.deltaTime * speed;
+        moveVector = Vector3.zero;
 
-		// transform.Translate(horizontalMovement, 0, verticalMovement);
-        controller.Move((Vector3.forward * speed) * Time.deltaTime);
+        // left and right
+        moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
+
+        // forward
+        moveVector.z = speed;
+
+        controller.Move(moveVector * speed * Time.deltaTime);
 	}
 
 }
