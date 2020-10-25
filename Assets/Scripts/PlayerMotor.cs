@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMotor : MonoBehaviour
 {
     private CharacterController controller;
-    private float speed = 4.0f;
+    private float speed = 3.0f;
     private Vector3 moveVector;
 
     void Start () {
@@ -17,7 +17,7 @@ public class PlayerMotor : MonoBehaviour
         moveVector = Vector3.zero;
 
         // left and right
-        moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
+        moveVector.x = Input.GetAxisRaw("Horizontal") * 4.0f;
 
         // forward
         moveVector.z = speed;
@@ -25,4 +25,9 @@ public class PlayerMotor : MonoBehaviour
         controller.Move(moveVector * speed * Time.deltaTime);
 	}
 
+    // Update speed according to difficulty level
+    public void SetSpeed(int modifier)
+    {
+        speed = 3.0f + modifier/4.0f;
+    }
 }
