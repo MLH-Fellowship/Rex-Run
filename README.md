@@ -1,26 +1,35 @@
-## T-Rex
-A little info about your project and/ or overview that explains **what** the project is about.
+
+# <div align="center">T-Rex</div>
 
 ## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
 ## Screenshots
 Include logo/demo screenshot etc.
+## What it does
+
+## How we built it
+
+## Challenges we ran into
+In order to build this project we had to learn C# in order to design games in Unity. Being beginners in the game design field, we had to learn designing game physics, using and modifying pre-existing assets for our use. We also learned how to create game objects through Blender and assign them player roles in Unity. In the end we were successfully able to combine various components into a consistent game with a vibrant Graphical User Interface.
+
+
+## Accomplishments that we're proud of
+- We broke the project structure down and built it component by component
+- Our team communication we consistent and pointed towards improving our project every step of the way.
+- We leveratged our inexperience in developing games to understand and use fundamentals of design with respect to a gaming engine.
+
+## What we learned
 
 ## Tech/framework used
 <b>Built with</b>
 - [Unity](https://unity.com/)
+- `Blender`
+## What's next for T-Rex
 
-## Features
-What makes your project stand out?
 
-## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
+## Built by GitGeese (Pod 1.1.6)
 
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
+## Built With
 
-#### Anything else that seems useful
+## Try it out
