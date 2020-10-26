@@ -3,6 +3,22 @@
 
 ## Motivation
 
+
+## Checklist
+- [x] Idea - T-Rex in a city
+- [ ] Components
+  - [ ] Character
+    - [x] Design
+    - [ ] Integration
+    - [ ] Color
+  - [x] Endless Strip
+  - [x] Buildings 
+  - [x] Obstacles
+  - [ ] Sky Change
+  - [ ] Main Menu
+  - [x] Death Menu
+  - [x] Scoreboard
+  - [ ] ???
 ## Screenshots
 Include logo/demo screenshot etc.
 ## What it does
@@ -22,13 +38,16 @@ In order to build this project we had to learn C# in order to design games in Un
 
 ## Tech/framework used
 <b>Built with</b>
+- **Language:** `C#` 
 - [Unity](https://unity.com/)
-- `Blender`
+- [Blender](https://www.blender.org/)`
+- [Visual Studio Code](https://code.visualstudio.com/)
 ## What's next for T-Rex
 
 
 ## Built by GitGeese (Pod 1.1.6)
-
+- Clara
+- Lily Tang
 
 ## Built With
 
