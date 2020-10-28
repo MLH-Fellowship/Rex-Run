@@ -86,4 +86,4 @@ In order to build this project we had to learn C# in order to design games in Un
 
 ## Try it out here!
 
-https://simmer.io/@Shiyuez/t-rex
+https://simmer.io/@Shiyuez/rex-run
