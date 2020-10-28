@@ -48,8 +48,8 @@ In order to build this project we had to learn C# in order to design games in Un
 
 ## Checklist
 - [x] Idea - T-Rex in a city
-- [ ] Components
-  - [ ] Character
+- [x] Components
+  - [x] Character
     - [x] Design
     - [x] Integration
     - [x] Color
@@ -57,7 +57,7 @@ In order to build this project we had to learn C# in order to design games in Un
   - [x] Buildings 
   - [x] Obstacles
   - [x] Sky Change
-  - [ ] Main Menu
+  - [x] Main Menu
   - [x] Death Menu
   - [x] Scoreboard
   - [ ] ???
