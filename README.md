@@ -46,8 +46,11 @@ In order to build this project we had to learn C# in order to design games in Un
 
 
 ## Built by GitGeese (Pod 1.1.6)
-- Clara
-- Lily Tang
+- Clara Chick 
+- Lily Tang   
+- [Shayan Riyaz](https://github.com/ShayanRiyaz)
+- Shiyue Zhang 
+
 
 ## Built With
 
