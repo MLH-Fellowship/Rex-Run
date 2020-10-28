@@ -2,7 +2,7 @@
 # <div align="center">T-Rex</div>
 
 ## Motivation
-
+We are all familiar with Googel dinosaur game so we thought it would be fun to recreate this game in 3D. 
 
 ## Checklist
 - [x] Idea - T-Rex in a city
@@ -22,6 +22,7 @@
 ## Screenshots
 Include logo/demo screenshot etc.
 ## What it does
+Our game is basically a combination of Google dinosaur game and 3d endless runner game. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings.
 
 ## How we built it
 
@@ -43,12 +44,14 @@ In order to build this project we had to learn C# in order to design games in Un
 - [Blender](https://www.blender.org/)`
 - [Visual Studio Code](https://code.visualstudio.com/)
 ## What's next for T-Rex
-
+- Create different scenes other than city.
+- Randomly generate cars
+- Train an AI that can play the game itself
 
 ## Built by GitGeese (Pod 1.1.6)
 - Clara
 - Lily Tang
-
-## Built With
+- Shayan Riyaz
+- Shiyue Zhang
 
 ## Try it out
