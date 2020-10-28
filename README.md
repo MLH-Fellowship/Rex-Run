@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   <a href="https://unity3d.com"> 
   <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity">
+  <a href="https://blender.engineering/">
+  <img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=flat&logo=blender">
   </p>
 
 ## Motivation
