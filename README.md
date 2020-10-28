@@ -5,10 +5,12 @@
 We are all familiar with Googel dinosaur game so we thought it would be fun to recreate this game in 3D. 
 
 ## Screenshots
+
 <p align="center">
   <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2011.06.11%20PM.png?raw=true" align="center" width="500">
   <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2010.59.06%20PM.png?raw=true" align="center" width="500">
 </p>
+
 ## What it does
 Our game is basically a combination of Google dinosaur game and 3d endless runner game. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings. The T-Rex inspiration comes from the famous Jurrasic Park movies.
 
@@ -24,9 +26,14 @@ In order to build this project we had to learn C# in order to design games in Un
 ## Accomplishments that we're proud of
 - We broke the project structure down and built it component by component
 - Our team communication we consistent and pointed towards improving our project every step of the way.
-- We leveratged our inexperience in developing games to understand and use fundamentals of design with respect to a gaming engine.
+- We leveraged our inexperience in developing games to understand and use fundamentals of design with respect to a gaming engine.
 
 ## What we learned
+- Designing a game is easy, designing a game with a good physics design is not. 
+- Learning game design enabled to open new avenues of creativity and master good programming practices.
+- Game design is different from general software development (backend and frontend).
+- Unity is a really good tool to get started with game design.
+- Blenders Python scripting add-on should be leveraged
 
 ## Tech/framework used
 <b>Built with</b>
