@@ -50,6 +50,7 @@ In order to build this project we had to learn C# in order to design games in Un
   
 ## What's next for T-Rex
 <img src="https://media3.giphy.com/media/QmH4MuISBE1dyPmTAy/200w.webp?cid=ecf05e47vdquubyzegf00wgqmnlkxop7lz8n1b66mnh0xz7n&rid=200w.webp" align = "center">
+
 - Create different scenes other than city.
 - Randomly generate cars
 - Train an AI that can play the game itself
