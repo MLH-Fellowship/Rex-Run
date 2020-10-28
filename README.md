@@ -19,7 +19,7 @@ Our game is basically a combination of Google's dinosaur game and an endless 3D 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
 </p>
 
-This project represents a gamers impression of a T-Rex of an endless runner in New York City **(under a budget)**. 
+This project represents a gamers impression of a T-Rex on an endless runner in New York City **(under a budget)**. 
 
 ## Challenges we ran into
 In order to build this project we had to learn C# in order to design games in Unity. Being beginners in the game design field, we had to learn designing game physics, using and modifying pre-existing assets for our use. We also learned how to create game objects through Blender and assign them player roles in Unity. In the end we were successfully able to combine various components into a consistent game with a vibrant Graphical User Interface.
