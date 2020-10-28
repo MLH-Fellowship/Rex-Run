@@ -65,7 +65,7 @@ In order to build this project we had to learn C# in order to design games in Un
 - Make the T-Rex run instead
 
 ### Ultimate Goal
-- T-Rex Free Roam World.
+- T-Rex GTA
 
 ## Made with :heart: by GitGeese (Pod 1.1.6)
 | Lily Tang | Clara Chick | Shayan Riyaz | Shiyue Zhang |
