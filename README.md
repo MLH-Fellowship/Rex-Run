@@ -69,10 +69,10 @@ In order to build this project we had to learn C# in order to design games in Un
 ### Ultimate Goal
 - T-Rex Free Roam World.
 
-## Built by GitGeese (Pod 1.1.6)
-- Clara
-- Lily Tang
-- [Shayan Riyaz](https://github.com/ShayanRiyaz)
-- Shiyue Zhang
+## Made with :heart: by GitGeese (Pod 1.1.6)
+  ## Made with ❤️ by Pod 1.1.6 (Git Geese):
+| Lily Tang | Clara Chick | Shayan Riyaz | Shiyue Zhang |
+| :----: | :---: | :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/13373962?s=460&u=8dd3cea9e4fdc17b35089774267622e58a32e9d2&v=4" width="100px;"/>](https://github.com/lilymtang)<br />[💻](https://github.com/lilymtang) [🤝](https://www.linkedin.com/in/cfdalangin/) | [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQE8eYc0h_TPHg/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=NVP7R8UDoVRYASyL6KgpzKFs9P9fgPYGYeuRiN86r_k" width="100px;"/>](https://clarachick.me/)<br />[🌍](https://clarachick.me/) [💻](https://github.com/KohinaTheCat) [🤝](https://www.linkedin.com/in/clarachick/) | [<img src="https://avatars1.githubusercontent.com/u/28723598?s=460&u=9444300dccf4ead144b03c7710f0ff4c149e05f8&v=4" width="100px;"/>](shayanriyaz.github.io)<br />[🌍](shayanriyaz.github.io) [💻](https://github.com/ShayanRiyaz) | [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGFk_sA35kT-A/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=_ZhIt1aPDDYj305ovVS_fAkPe_IKCW_ysY7JFRu9SuM" width="100px;"/>](https://github.com/zhangshyue)<br /> [💻](https://github.com/zhangshyue) [🤝](https://www.linkedin.com/in/shiyue-zhang-58828b196/) |
 
 ## Try it out
