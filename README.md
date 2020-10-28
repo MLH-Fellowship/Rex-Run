@@ -9,8 +9,8 @@ We are all familiar with Googel dinosaur game so we thought it would be fun to r
 - [ ] Components
   - [ ] Character
     - [x] Design
-    - [ ] Integration
-    - [ ] Color
+    - [x] Integration
+    - [x] Color
   - [x] Endless Strip
   - [x] Buildings 
   - [x] Obstacles
@@ -22,7 +22,9 @@ We are all familiar with Googel dinosaur game so we thought it would be fun to r
 ## Screenshots
 Include logo/demo screenshot etc.
 ## What it does
-Our game is basically a combination of Google dinosaur game and 3d endless runner game. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings.
+Our game is basically a combination of Google dinosaur game and 3d endless runner game. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings. Why the T-Rex you ask? Well T-Rex inspiration comes from the famous Jurrasic Park movies.
+<img src="https://i.pinimg.com/originals/58/19/17/58191762097c7184f45597d4407d2724.gif" alt="A scene from a fan version of Jurrasic Park" /> 
+
 
 ## How we built it
 
