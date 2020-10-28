@@ -26,7 +26,7 @@ Our game is a combination of Google's dinosaur game and an endless 3D runner. Th
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
 </p>
 
-## What it does
+## How to play
 Press Space to make the dinosaur jump and press left/right to move left/right. 
 
 ## Challenges we ran into
