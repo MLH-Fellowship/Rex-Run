@@ -7,14 +7,16 @@ We are all familiar with Google dinosaur game, so we thought it would be fun to 
 ## Screenshots
 
 <p align="center">
-  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2011.06.11%20PM.png?raw=true" align="center" width="250">
-  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2010.59.06%20PM.png?raw=true" align="center" width="250">
+  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2011.06.11%20PM.png?raw=true" width="400">
+  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2010.59.06%20PM.png?raw=true" width="400">
 </p>
 
 ## What it does
 Our game is basically a combination of Google's dinosaur game and an endless 3D runner. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings. The T-Rex inspiration comes from the famous Jurrasic Park movies.
 
+<p align="center"</p>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
+</p>
 
 This project represents a gamers impression of a T-Rex of an endless runner in New York City **(under a budget)**. 
 
