@@ -9,7 +9,7 @@ Include logo/demo screenshot etc.
 ## What it does
 Our game is basically a combination of Google dinosaur game and 3d endless runner game. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings. The T-Rex inspiration comes from the famous Jurrasic Park movies.
 
-![An artists remake of Jurrasic Park](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
 
 This project represents a gamers impression of a T-Rex on an endless runner
 
@@ -49,9 +49,8 @@ In order to build this project we had to learn C# in order to design games in Un
   - [ ] ???
   
 ## What's next for T-Rex
+<img src="https://media3.giphy.com/media/QmH4MuISBE1dyPmTAy/200w.webp?cid=ecf05e47vdquubyzegf00wgqmnlkxop7lz8n1b66mnh0xz7n&rid=200w.webp" align = "center">
 - Create different scenes other than city.
-  - For example : 
-  ![](https://media3.giphy.com/media/QmH4MuISBE1dyPmTAy/200w.webp?cid=ecf05e47vdquubyzegf00wgqmnlkxop7lz8n1b66mnh0xz7n&rid=200w.webp)
 - Randomly generate cars
 - Train an AI that can play the game itself
 
