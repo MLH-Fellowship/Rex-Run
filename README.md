@@ -59,7 +59,9 @@ In order to build this project we had to learn C# in order to design games in Un
   - [ ] ???
   
 ## What's next for T-Rex :crystal_ball:
-<img src="https://media3.giphy.com/media/QmH4MuISBE1dyPmTAy/200w.webp?cid=ecf05e47vdquubyzegf00wgqmnlkxop7lz8n1b66mnh0xz7n&rid=200w.webp" align="center">
+<p align="center">
+<img src="https://media3.giphy.com/media/QmH4MuISBE1dyPmTAy/200w.webp?cid=ecf05e47vdquubyzegf00wgqmnlkxop7lz8n1b66mnh0xz7n&rid=200w.webp">
+</p>
 
 - Create different scenes other than city.
 - Randomly generate cars
