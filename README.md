@@ -31,7 +31,7 @@ In order to build this project, we had to learn C# in order to use Unity. As beg
 
 ## :trophy: Accomplishments that we're Proud of
 - We learned Unity and Blender in a little more than a week 
-- We finished a complete game with begin, end, score-keeping, and level-ing 
+- We finished a complete game with start and end menus, scoring, and levels
 - Our team communication was consistent and meetings were productive
 
 ## What We Learned
