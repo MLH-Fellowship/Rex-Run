@@ -1,7 +1,8 @@
 
 # <div align="center">Rex Run 🦖 </div>
 <p align="center">
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <a href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </p>
 
 ## Motivation
