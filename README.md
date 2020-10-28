@@ -7,8 +7,8 @@ We are all familiar with Google dinosaur game, so we thought it would be fun to 
 ## Screenshots
 
 <p align="center">
-  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2011.06.11%20PM.png?raw=true" align="center" width="500">
-  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2010.59.06%20PM.png?raw=true" align="center" width="500">
+  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2011.06.11%20PM.png?raw=true" align="center" width="250">
+  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2010.59.06%20PM.png?raw=true" align="center" width="250">
 </p>
 
 ## What it does
