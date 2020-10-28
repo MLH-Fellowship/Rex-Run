@@ -20,27 +20,24 @@ We are all familiar with Google dinosaur game, so we thought it would be fun to 
 </p>
 
 ## What it does
-Our game is basically a combination of Google's dinosaur game and an endless 3D runner. We set the scene in a city and the obstacles are cars on the road. We have a T-Rex as player and it need to avoid the cars and buildings. The T-Rex inspiration comes from the famous Jurrasic Park movies.
+Our game is a combination of Google's dinosaur game and an endless 3D runner. We set the scene in a city, and objective is to get as far as you can in the agme while avoiding the cars on the road. The T-Rex is modeled off the infamous inflatable dinosaur costume that is often seen attempting to perform human stunts in a city environment.
 
 <p align="center"</p>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
 </p>
 
-This project represents a gamers impression of a T-Rex on an endless runner in New York City **(under a budget)**. 
-
 ## Challenges we ran into
-In order to build this project we had to learn C# in order to design games in Unity. Being beginners in the game design field, we had to learn designing game physics, using and modifying pre-existing assets for our use. We also learned how to create game objects through Blender and assign them player roles in Unity. In the end we were successfully able to combine various components into a consistent game with a vibrant Graphical User Interface.
+In order to build this project, we had to learn C# in order to use Unity. As beginners in the game design field, we learned about game physics as well as using and modifying pre-existing assets. We also learned how to create game objects through Blender and use them in Unity. In the end, we were able to successfully combine various components into a complete game.
 
 ## :trophy: Accomplishments that we're Proud of
-- We broke the project structure down and built it component by component
-- Our team communication we consistent and pointed towards improving our project every step of the way.
-- We leveraged our inexperience in developing games to understand and use fundamentals of design with respect to a gaming engine.
+- We learned Unity and Blender in a little more than a week 
+- We finished a complete game with begin, end, score-keeping, and level-ing 
+- Our team communication was consistent and meetings were productive
 
-## What we Learned
-- Designing a game is easy, designing a game with a good physics design is not. 
-- Learning game design enabled to open new avenues of creativity and master good programming practices.
-- Game design is different from general software development (backend and frontend).
-- Unity is a really good tool to get started with game design.
+## What We Learned
+- Designing a game is easy; designing a game with good physics is not
+- Game design is different from software development and leverages multiple areas of art: drawing, music, design, storytelling
+- Unity is a really good tool to get started with game design
 - Blenders Python scripting add-on should be leveraged
 
 ## Technologies Used :rocket:
@@ -54,9 +51,9 @@ In order to build this project we had to learn C# in order to design games in Un
 - [x] Idea - T-Rex in a city
 - [x] Components
   - [x] Character
-    - [x] Design
-    - [x] Integration
+    - [x] 3D dinosaur
     - [x] Color
+    - [ ] Animated movement
   - [x] Endless Strip
   - [x] Buildings 
   - [x] Obstacles
@@ -71,7 +68,7 @@ In order to build this project we had to learn C# in order to design games in Un
 <img src="https://media3.giphy.com/media/QmH4MuISBE1dyPmTAy/200w.webp?cid=ecf05e47vdquubyzegf00wgqmnlkxop7lz8n1b66mnh0xz7n&rid=200w.webp">
 </p>
 
-- Create different scenes other than city.
+- Create scene options beyond city
 - Randomly generate cars
 - Train an AI that can play the game itself
 - Make the T-Rex run instead
