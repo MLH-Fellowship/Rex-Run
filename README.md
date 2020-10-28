@@ -26,6 +26,9 @@ Our game is a combination of Google's dinosaur game and an endless 3D runner. Th
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
 </p>
 
+## What it does
+Press Space to make the dinosaur jump and press left/right to move left/right. 
+
 ## Challenges we ran into
 In order to build this project, we had to learn C# in order to use Unity. As beginners in the game design field, we learned about game physics as well as using and modifying pre-existing assets. We also learned how to create game objects through Blender and use them in Unity. In the end, we were able to successfully combine various components into a complete game.
 
