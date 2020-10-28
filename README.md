@@ -20,7 +20,7 @@ We are all familiar with Google dinosaur game, so we thought it would be fun to 
 </p>
 
 ## What it does
-Our game is a combination of Google's dinosaur game and an endless 3D runner. We set the scene in a city, and objective is to get as far as you can in the agme while avoiding the cars on the road. The T-Rex is modeled off the infamous inflatable dinosaur costume that is often seen attempting to perform human stunts in a city environment.
+Our game is a combination of Google's dinosaur game and an endless 3D runner. The dinosaur is set in the city, and the objective is to get as far as you can in the game while avoiding the cars on the road. The dinosaur is modeled off the infamous inflatable T-Rex costume that is often seen attempting to perform human stunts in a city environment.
 
 <p align="center"</p>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb3%2F4a%2F5f%2Fb34a5fd6d7d446ad173ba4f57041ab42.gif&f=1&nofb=1" align = "center">
