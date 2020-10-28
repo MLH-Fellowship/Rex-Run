@@ -38,7 +38,6 @@ In order to build this project, we had to learn C# in order to use Unity. As beg
 - Designing a game is easy; designing a game with good physics is not
 - Game design is different from software development and leverages multiple areas of art: drawing, music, design, storytelling
 - Unity is a really good tool to get started with game design
-- Blenders Python scripting add-on should be leveraged
 
 ## Technologies Used :rocket:
 <b>Built with</b>
