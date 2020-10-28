@@ -1,6 +1,8 @@
 
-# <div align="center">T-Rex 🦖 </div>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# <div align="center">Rex Run 🦖 </div>
+<p align="center">
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  </p>
 
 ## Motivation
 We are all familiar with Google dinosaur game, so we thought it would be fun to recreate this game in 3D. 
