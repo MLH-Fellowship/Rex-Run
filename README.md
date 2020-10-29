@@ -15,7 +15,7 @@ We are all familiar with Google dinosaur game, so we thought it would be fun to 
 ## Screenshots
 
 <p align="center">
-  <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2011.06.11%20PM.png?raw=true" width="400">
+  <img src = "https://github.com/MLH-Fellowship/Rex-Run/blob/main/screenshots/Screen%20Shot%202020-10-29%20at%2012.23.29%20PM.png?raw=true" width="400">
   <img src = "https://github.com/MLH-Fellowship/T-Rex-/blob/main/screenshots/Screen%20Shot%202020-10-27%20at%2010.59.06%20PM.png?raw=true" width="400">
 </p>
 
